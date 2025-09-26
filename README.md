@@ -35,7 +35,7 @@ Discussed all prgramming languages and tools used in this project. This could in
 ## Additional Information
 
 Here is where you can add links or talk about results or how you are using this information. This is your place to share more.  
- For now, I'm going to add a few addtional Markdown Options
+ For now, I'm going to add a few addtional Markdown Options  
 **Bold**  
 *Italics*  
 ~Strikethrough~  
